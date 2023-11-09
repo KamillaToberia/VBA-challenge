@@ -33,7 +33,7 @@ All five screenshots are added.
 
 
 -Table 2020
-![output](Screenshot_Table_2020.png)
+![output](Screenshot_Table__2020.png)
 
 
 ## Steps
