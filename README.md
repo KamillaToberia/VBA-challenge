@@ -61,7 +61,7 @@ All five screenshots are added.
 - Finding the Max Percent, Min Percent and Max Volume
   Finding the names of the respective Tickers and Alocate them.
 
--Formating the sheet to fit the values.
+- Formating the sheet to fit the values.
 
 
 
